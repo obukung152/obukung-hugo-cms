@@ -4,6 +4,8 @@ role: CEO
 avatar_filename: ff.jpg
 bio: Uses a sword called a gunblade. Special skill is Renzokuken, using the
   gunblade. Silent, and a bit cold.
+interests:
+  - Freedom
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,7 +17,7 @@ social:
     icon_pack: fab
     link: https://github.com/obukung152
 organizations:
-  - name: Balamb Garden
+  - name: Obukung.com
     url: ""
 superuser: true
 ---
