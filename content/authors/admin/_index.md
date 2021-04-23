@@ -1,62 +1,26 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
-
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+title: Ob Obukung
+role: CEO
+avatar_filename: ff.jpg
+bio: Uses a sword called a gunblade. Special skill is Renzokuken, using the
+  gunblade. Silent, and a bit cold.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'about/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+  - icon: envelope
+    icon_pack: fas
+    link: about/#contact
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/obukung
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/obukung152
+organizations:
+  - name: Balamb Garden
+    url: ""
+superuser: true
 ---
+<!--StartFragment-->
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Squall starts an introverted, cold and taciturn teenager who pushes away those who would otherwise be considered his friends. Though withdrawn, Squall does not shirk from what he considers his duty. As much as he resents assuming leadership, he is the first to ensure that what is necessary gets done. Squall's pragmatism and sense of responsibility lead others to trust and follow him. Even though everyone agrees Squall can be difficult, staff and students alike admire him, and he is eventually appointed Commander of Balamb Garden much to his dismay. Squall becomes the *de facto* leader of the party, though at first, he dislikes his comrades looking to him for orders and advice.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<!--EndFragment-->
