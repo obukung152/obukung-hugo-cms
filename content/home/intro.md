@@ -4,7 +4,7 @@ widget_id: RECENT-POSTS
 headless: true
 weight: 10
 title: Hello World!
-subtitle: For anyone who have curiosity.
+subtitle: For people with curiosity.
 design:
   background:
     color: "#090a0b"
